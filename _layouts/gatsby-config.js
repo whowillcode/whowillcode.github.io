@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: `/whowillcode.github.io`,
+  pathPrefix: ``,
   siteMetadata: {
     title: `Notes`,
   },
